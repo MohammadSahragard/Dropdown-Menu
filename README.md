@@ -7,7 +7,7 @@ I am sure you will like several CSS tips in this project.
 ### CSS Tips in this project:
 - Used CSS variables with inline style
 - Built Icons with elements
-- Animation tricks
+- Animation an transition tricks
 
 <br />
 
